@@ -1,4 +1,4 @@
-# Codewars Kata on Python
+# Codewars Katas on Python
 
 ## Find the lucky numbers
 
